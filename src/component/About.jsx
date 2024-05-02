@@ -13,7 +13,7 @@ const About = () => {
           
 
           <div class="col-sm-12 col-md-12 col-lg-6">
-            <h4 >About Us</h4>
+            <h4>ABOUT US</h4>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
               neque modi labore aliquid? Commodi quasi ipsam illum vel Lorem
