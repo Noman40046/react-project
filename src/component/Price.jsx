@@ -15,7 +15,7 @@ const Price = () => {
         <div className="row">
           <div className="col-sm-12 col-md-4">
             <div className="card shadow">
-              <img src="../../public/img/furniture.jpg" className="card-img-top" alt="img-1" />
+              <img src="../../img/furniture.jpg" className="card-img-top" alt="img-1" />
               <div className="card-body">
                 <h5 className="card-title">Lab Area</h5>
               </div>
@@ -41,7 +41,7 @@ const Price = () => {
           <div className="col-sm-12 col-md-4">
             <div className="card shadow">
               <img
-                src="../../public/img/lab.png"
+                src="../../img/lab.png"
                 className="card-img-top"
                 alt="img-2"
               />
@@ -68,7 +68,7 @@ const Price = () => {
           
           <div className="col-sm-12 col-md-4">
             <div className="card shadow">
-              <img src="../../public/img/tools.jpg" className="card-img-top" alt="img-3" />
+              <img src="../../img/tools.jpg" className="card-img-top" alt="img-3" />
               <div className="card-body">
                 <h5 className="card-title">Electric Tools</h5>
               </div>
