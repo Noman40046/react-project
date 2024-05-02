@@ -18,7 +18,7 @@ const Services = () => {
           <div className="col-sm-12 col-md-4 ">
             <div className="card shadow">
               <img
-                src="../../img/service-images/service-1.jpg"
+                src="../../img/service-1.jpg"
                 className="card-img-top"
                 alt="service-img1"
               />
