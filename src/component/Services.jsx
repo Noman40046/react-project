@@ -18,7 +18,7 @@ const Services = () => {
           <div className="col-sm-12 col-md-4 ">
             <div className="card shadow">
               <img
-                src="../../public/img/service images/service-1.jpg"
+                src="../../public/img/service-images/service-1.jpg"
                 className="card-img-top"
                 alt="service-img1"
               />
@@ -41,7 +41,7 @@ const Services = () => {
           <div className="col-sm-12 col-md-4">
             <div className="card shadow">
               <img
-                src="../../public/img/service images/service-2.jpg"
+                src="../../public/img/service-images/service-3.jpg"
                 className="card-img-top"
                 alt="service-img2"
               />
@@ -64,7 +64,7 @@ const Services = () => {
           <div className="col-sm-12 col-md-4">
             <div className="card shadow">
               <img
-                src="../../public/img/service images/service-3.jpg"
+                src="../../public/img/service-images/service-2.jpg"
                 className="card-img-top"
                 alt="service-img3"
               />
