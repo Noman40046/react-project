@@ -41,7 +41,7 @@ const Services = () => {
           <div className="col-sm-12 col-md-4">
             <div className="card shadow">
               <img
-                src="../../img/service-2.jpg"
+                 src="../../img/service-2.jpg"
                 className="card-img-top"
                 alt="service-img2"
               />
@@ -64,7 +64,7 @@ const Services = () => {
           <div className="col-sm-12 col-md-4">
             <div className="card shadow">
               <img
-                src="../../img/service-3.jpg"
+                 src="../../img/service-3.jpg"
                 className="card-img-top"
                 alt="service-img3"
               />
