@@ -25,7 +25,6 @@ const App = () => {
       <Price/>
       <Form/>
       <Footer/>
-     
       
     </div>
   );
