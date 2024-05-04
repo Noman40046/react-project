@@ -2,9 +2,9 @@ import React from 'react';
 
 const Price = () => {
   return (
-    <div>
+    <div className='prices'>
       
-      <div id="Price" className="mb-5">
+      <div id="Price" className="mb-5 mt-5">
       <div className="container">
         <div className="row">
           <div className="col mb-4 mt-4 text-center">

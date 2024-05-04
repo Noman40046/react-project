@@ -6,9 +6,9 @@ const Navbar = () => {
         <div>
             <nav class="navbar navbar-expand-lg bg-light">
       <div class="container">
-        <a class="navbar-brand" href="#"
+        <Link class="navbar-brand" to="/"
           ><img class="w-50" src="../../img/logo.png" alt="main-logo"
-        /></a>
+        /></Link>
         <button
         class="navbar-toggler"
         type="button"
@@ -23,9 +23,8 @@ const Navbar = () => {
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#Home"
-                >Home</a
-              >
+              <Link class="nav-link active" aria-current="page" to="/"
+                >Home</Link>
             </li>
             <li class="nav-item">
               <Link class="nav-link" to="/services">Services</Link>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Form = () => {
     return (
-        <div className='container mb-5'>
+        <div className='container forms '>
              <section className='mb-5' id="Form">
       <div className="container">
         <h1 className="text-center mt-4">Form</h1>

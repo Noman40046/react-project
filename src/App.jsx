@@ -11,11 +11,10 @@ import Progressreport from './component/Progressreport';
 import Footer from './component/Footer';
 
 
-
 const App = () => {
   return (
     <div>
-      <Navbar/>
+      {/* <Navbar/> */}
       <Slidebar/>
       <Services/>
       <About/>
@@ -24,9 +23,9 @@ const App = () => {
       <Faq/>
       <Price/>
       <Form/>
-      <Footer/>
+      {/* <Footer/> */}
       
-    </div>
+    </div> 
   );
 };
 

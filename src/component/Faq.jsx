@@ -3,7 +3,7 @@ import Accordion from 'react-bootstrap/Accordion';
 function Faq() {
   return (
 
-    <div className='container mb-5'>
+    <div className='container faqs mb-5 mt-5'>
       <h1 className='mb-3 text-center'>Faq</h1>
     <Accordion defaultActiveKey="0">
       <Accordion.Item eventKey="0">
@@ -32,7 +32,7 @@ function Faq() {
         </Accordion.Body>
       </Accordion.Item>
 
-      <Accordion.Item eventKey="1">
+      <Accordion.Item eventKey="2">
         <Accordion.Header>Accordion Item #2</Accordion.Header>
         <Accordion.Body>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -45,7 +45,7 @@ function Faq() {
         </Accordion.Body>
       </Accordion.Item>
       
-      <Accordion.Item eventKey="1">
+      <Accordion.Item eventKey="3">
         <Accordion.Header>Accordion Item #2</Accordion.Header>
         <Accordion.Body>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

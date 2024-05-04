@@ -2,10 +2,10 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div>
+        <div className='abouts'>
 
-<section id="About">
-      <div class="container mb-5">
+<div className="About">
+      <div class="container mb-5 mt-5">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 mb-4">
             <img  class="shadow rounded" src="../../img/about.jpg" alt="" />
@@ -41,7 +41,7 @@ const About = () => {
           </div>
         </div>
       </div>
-    </section>
+    </div>
             
 
 

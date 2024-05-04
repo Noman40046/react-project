@@ -2,9 +2,9 @@ import React from 'react';
 
 const Services = () => {
     return (
-        <div className='mb-5'>
+        <div className='container mb-5'>
 
-            <div id="Services">
+            <div className="Services mb-5">
       <div className="container">
         <div className="row">
           <div className="col mt-5 mb-5 text-center">
