@@ -20,8 +20,6 @@ const Home = () => {
                 <ContactUs/>
                 <Progressreport/>
                 <Form/>
-
-
             </div>
             
         </div>
